@@ -1,4 +1,5 @@
 /node_modules
 /package-lock.json
-/package.json
-/nodemon.json
+/docker-compose.yaml
+/bin/connect_mysql.sh
+/bin/load_ddl.sh
